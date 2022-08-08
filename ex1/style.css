@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+section {
+  background: #111;
+  color: #fff;
+  margin: 50px;
+  border-radius: 4px;
+}
+
+.sessao {
+  padding: 20px;
+}
+
+.sessao h2,
+p {
+  padding-bottom: 20px;
+}
+
+.sessao span {
+  color: #febe01;
+}
+
+.sessao p {
+  color: #b2b2b2;
+}
+
+.sessao a {
+  display: inline-block;
+  background: #febe01;
+  color: #332200;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+}
