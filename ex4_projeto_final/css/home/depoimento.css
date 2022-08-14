@@ -18,7 +18,7 @@
 }
 
 .depoimento-conteudo p {
-  max-width: 32ch;
+  max-width: 25ch;
   font-family: "Merriweather", serif;
   font-style: italic;
   font-weight: 900;
@@ -54,5 +54,13 @@
   .depoimento-conteudo {
     padding: 40px 20px;
     justify-self: center;
+  }
+  .depoimento p::before,
+  .depoimento p::after {
+    font-size: 3rem;
+  }
+
+  .depoimento p::before {
+    left: -5px;
   }
 }
