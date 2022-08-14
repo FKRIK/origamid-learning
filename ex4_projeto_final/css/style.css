@@ -15,4 +15,10 @@
 /* Biciletas */
 @import "./bicicletas/bicicletas-lista.css";
 
+/* Seguros */
+@import "./seguros/seguros.css";
 
+
+.footer{
+    background: var(--cor-12);
+}
