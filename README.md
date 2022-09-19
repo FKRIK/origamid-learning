@@ -8,7 +8,6 @@ Feito a partir de um design no Figma, com sete modelos de telas diferentes.
 ## [Clique aqui para navegar agora!](https://fkrik.github.io/origamid-learning/ex4_projeto_final/)
 
 <hr>
-<br>
 
 # **Projeto Portifólio**
 
