@@ -5,7 +5,7 @@
 Projeto final desenvolvido no curso HTML e CSS para iniciantes da ORIGAMID.
 Feito a partir de um design no Figma, com sete modelos de telas diferentes.
 
-## [Clique aqui para navegar agora!](https://fkrik.github.io/origamid-learning/ex4_projeto_final/)
+## [Clique aqui para navegar agora!](https://github.com/FKRIK/origamid-learning/tree/main/HTML%20%26%20CSS/ex4_projeto_final)
 
 <hr>
 
@@ -13,4 +13,4 @@ Feito a partir de um design no Figma, com sete modelos de telas diferentes.
 
 ![Imagem site Portifólio](./imgs/sc_index_lobo.png)
 
-## [Clique aqui para navegar agora!](https://fkrik.github.io/origamid-learning/ex3_portfolio/)
+## [Clique aqui para navegar agora!](https://github.com/FKRIK/origamid-learning/tree/main/HTML%20%26%20CSS/ex3_portfolio)
